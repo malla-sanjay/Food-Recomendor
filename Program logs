@@ -1,0 +1,7 @@
+version 1
+  this version has a static array which stores the food options and utilizes two option variables to to recommend the user. randomizer is calibrated in a way
+  that it ensures that it places random food options in the variables ensuring that those variables dont store the same food option. it uses IF-ELSE to check
+  if the user wants another option if they dont the first. 
+  <note> more options and interractive UI will be added in the next versions of this progran, the programming langauge may differ </note>
+  
+  
